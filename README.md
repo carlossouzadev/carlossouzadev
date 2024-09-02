@@ -1,10 +1,4 @@
-<div align="center">
-  <a href="https://github.com/carlossouzadev">
-  <img height="180em" src="https://github-readme-stats-phi-three-89.vercel.app/api?username=carlossouzadev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
- <!-- <img height="180em" src="https://github-readme-stats-phi-three-89.vercel.app/api/top-langs/?username=carlossouzadev&langs_count=10&theme=dark"/> -->
-</div>
 
-<!--
 **carlossouzadev/carlossouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
